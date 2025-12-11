@@ -1,1 +1,1 @@
-# Auction-Contract
+# AuctionContract
